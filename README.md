@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Llama 3 8B Instruct from Scratch
 
 ## Overview

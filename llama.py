@@ -6,7 +6,7 @@ from dataclasses import dataclass  # Importing dataclass decorator for creating 
 from pathlib import Path  # Importing module for representing file system paths
 from typing import Optional, Tuple  # Importing module for type hinting
 
-import mlx.core as mx  # Importing mlx (Machine Learning eXtensions) core module
+import mlx.core as mx  # Importing mlx core module
 import mlx.nn as nn  # Importing mlx neural network module
 from mlx.utils import tree_unflatten  # Importing tree_unflatten function from mlx.utils module
 from tokenizer import ChatFormat, Dialog, Message, Tokenizer

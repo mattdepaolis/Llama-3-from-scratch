@@ -34,7 +34,7 @@ Execute the model via the command line with various configurable options:
 Example command:
 
 ```bash
-python model_script.py --model-path ./mlx_model --prompt "Hello, world!" --max-tokens 50
+python llama.py --model-path ./mlx_model --prompt "Hello, world!" --max-tokens 50
 ```
 
 ### Text Generation

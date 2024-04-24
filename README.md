@@ -18,7 +18,7 @@ The implementation utilizes the robust MLX library, distinguished for its effici
 
 ### Setup
 
-To utilize this model, clone the repository and install the necessary dependencies as outlined in the `requirements.txt` file (not included in this readme but should be part of your repository setup).
+To utilize this model, clone the repository and install the necessary dependencies as outlined in the `requirements.txt` file.
 
 ### Running the Model
 
@@ -52,6 +52,3 @@ Contributions are welcome! If you have improvements or bug fixes, please submit 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details (assuming a standard open-source license for demonstration).
-=======
-
->>>>>>> 9113a91b57556bff5c1a74db9ec8aa3d1594e1a1

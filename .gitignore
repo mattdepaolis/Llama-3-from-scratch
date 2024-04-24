@@ -13,3 +13,5 @@
 *.npz
 *.pth
 
+.DS_Store
+

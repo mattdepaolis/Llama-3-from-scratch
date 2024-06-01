@@ -12,6 +12,7 @@
 *.safetensors
 *.npz
 *.pth
+llama_logging.py
 
 .DS_Store
 

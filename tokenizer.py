@@ -70,7 +70,7 @@ class Tokenizer:
             "<|eot_id|>",  # end of turn
         ] + [
             f"<|reserved_special_token_{i}|>"
-            for i in range(5, self.num_reserved_special_tokens - 5)
+            for i in range(5, self.num_reserved_special_tokens - 5) # A large set of tokens reserved for future use.
         ]
         self.special_tokens = {
             token: num_base_tokens + i for i, token in enumerate(special_tokens)
